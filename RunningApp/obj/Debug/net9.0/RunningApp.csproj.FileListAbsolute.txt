@@ -1,0 +1,14 @@
+/Users/sara/Desktop/FP/Fundamentos_programacion/actividad_evaluable_EV2/RunningApp/bin/Debug/net9.0/RunningApp
+/Users/sara/Desktop/FP/Fundamentos_programacion/actividad_evaluable_EV2/RunningApp/bin/Debug/net9.0/RunningApp.deps.json
+/Users/sara/Desktop/FP/Fundamentos_programacion/actividad_evaluable_EV2/RunningApp/bin/Debug/net9.0/RunningApp.runtimeconfig.json
+/Users/sara/Desktop/FP/Fundamentos_programacion/actividad_evaluable_EV2/RunningApp/bin/Debug/net9.0/RunningApp.dll
+/Users/sara/Desktop/FP/Fundamentos_programacion/actividad_evaluable_EV2/RunningApp/bin/Debug/net9.0/RunningApp.pdb
+/Users/sara/Desktop/FP/Fundamentos_programacion/actividad_evaluable_EV2/RunningApp/obj/Debug/net9.0/RunningApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sara/Desktop/FP/Fundamentos_programacion/actividad_evaluable_EV2/RunningApp/obj/Debug/net9.0/RunningApp.AssemblyInfoInputs.cache
+/Users/sara/Desktop/FP/Fundamentos_programacion/actividad_evaluable_EV2/RunningApp/obj/Debug/net9.0/RunningApp.AssemblyInfo.cs
+/Users/sara/Desktop/FP/Fundamentos_programacion/actividad_evaluable_EV2/RunningApp/obj/Debug/net9.0/RunningApp.csproj.CoreCompileInputs.cache
+/Users/sara/Desktop/FP/Fundamentos_programacion/actividad_evaluable_EV2/RunningApp/obj/Debug/net9.0/RunningApp.dll
+/Users/sara/Desktop/FP/Fundamentos_programacion/actividad_evaluable_EV2/RunningApp/obj/Debug/net9.0/refint/RunningApp.dll
+/Users/sara/Desktop/FP/Fundamentos_programacion/actividad_evaluable_EV2/RunningApp/obj/Debug/net9.0/RunningApp.pdb
+/Users/sara/Desktop/FP/Fundamentos_programacion/actividad_evaluable_EV2/RunningApp/obj/Debug/net9.0/RunningApp.genruntimeconfig.cache
+/Users/sara/Desktop/FP/Fundamentos_programacion/actividad_evaluable_EV2/RunningApp/obj/Debug/net9.0/ref/RunningApp.dll
